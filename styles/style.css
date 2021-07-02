@@ -1,0 +1,31 @@
+body {
+  background-color: #f3f1ff;
+}
+.navbar img {
+  width: 38px;
+}
+.container-fluid {
+  width: 1200px;
+}
+.main-profile img {
+  width: 56px;
+}
+.top-player {
+  background-color: #ffff;
+}
+section {
+  margin-top: 30px;
+}
+.blog-image img {
+  width: 177px;
+}
+.item-blog {
+  padding-bottom: 30px;
+}
+.course-blog img {
+  width: 305px;
+  padding-bottom: 10px;
+}
+.course-blog {
+  padding-bottom: 30px;
+}
